@@ -37,8 +37,11 @@ Power on — robot should follow the line automatically
 
 📂 Project Structure
 / (project root)
+
 ├── (your main .ino file)            # Sketch for line follower
+
 ├── (optional helper files / libs)   # If any
+
 └── README.md                        # This documentation
 
 🎯 How It Works (high-level)
