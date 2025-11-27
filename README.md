@@ -55,4 +55,5 @@ Power on — robot should follow the line automatically
 -This basic logic is typical of many line-follower projects — enough to get you started.
 
 🤝 Contribution
-Feel free to fork this repo, modify the sketch, fix bugs or add features. Pull requests are welcome; please test thoroughly and document changes.
+
+-Feel free to fork this repo, modify the sketch, fix bugs or add features. Pull requests are welcome; please test thoroughly and document changes.
