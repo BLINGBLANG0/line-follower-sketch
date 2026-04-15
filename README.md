@@ -57,4 +57,5 @@ Power on — robot should follow the line automatically
 🤝 Contribution
 
 -Feel free to fork this repo, modify the sketch, fix bugs or add features. Pull requests are welcome; please test thoroughly and document changes.
-Note: this sketch was dedicated for a certain map , changing the map may need to bring some minor changes
+
+-Note: this sketch was dedicated for a certain map , changing the map may need to bring some minor changes
